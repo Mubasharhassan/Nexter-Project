@@ -1,0 +1,17 @@
+{
+  "name": "nextrproject",
+  "version": "1.0.0",
+  "description": "This is my 3rd project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mubashar Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "node": "^16.17.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.54.5"
+  }
+}
